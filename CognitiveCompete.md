@@ -62,4 +62,3 @@
 | Features |  |  | personality models, consumption preferences |  |
 | **Understand emotions and communication style in text** |  |  | **Tone Analyzer** |  |
 | Features |  |  | sentiment detection, language style, social tendencies |  |
-| 

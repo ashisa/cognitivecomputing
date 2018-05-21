@@ -22,8 +22,6 @@
 | Features | custom language models, active learning, pre-built domains, SDK | custom language models, active learning, pre-built domains, context aware, linear dialogs, non-linear dialogs, rich cards | custom language models, active learning | speech-to-text, natural language processing, custom language models, multi-turn conversations, intent chaining, active learning |
 | **Spell check capabilities** | **Bing Spell Check API** |  |  |  |
 | Features | web search mode, proofing mode, word breaking detection, slang detection, contextual name correction, homonyms correction, brand name detection, coined expression detection |  |  |  |
-| **Automate natural language processing tasks** | **Web Language Model API** |  |  |  |
-| Features | joint probabilities, conditional probabilities, next word suggestions |  |  |  |
 | **Extract insights from text** | **Text Analytics API** | **Cloud Natural Language API** | **Natural Language Understanding** | **Comprehend** |
 | Features | sentiment analysis, key phrase extraction, keyword detection, language detection, entity detection | sentiment analysis, topic detection, entity detection, sentence separation, part-of-speech tagging, constituency parsing, morphology | sentiment analysis, targeted sentiment analysis, keyword sentiment analysis, concepts, entity detection, keyword detection, categorization, entity relations, sdk, language detection | sentiment analysis, key phrase extraction, keyword detection, language detection, entity detection, topic modeling |
 | **Real-time text translation** | **Translator Text API** | **Cloud Translation API** | **Language Translator ** | **Translate** |

@@ -1,2 +1,3 @@
 # cognitivecomputing
-Documents and code on AI and Cognitive Computing
+
+A comparison of Cognitive Services from Microsoft, IBM, Google and Amazon - 

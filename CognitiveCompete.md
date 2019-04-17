@@ -64,3 +64,5 @@
 | Features |  |  | sentiment detection, language style, social tendencies |  |
 | **Anomaly Detection** | Anomaly Detector | | | |
 | Features | monitor and detect anamolies in time-series data, real-time processing, batch processing, anomaly boundaries, anomaly positions   |  |  |  |
+| **Layout-aware OCR** | | | | Textract |
+| Feature | | | | OCR, extract data from table, identify fields in forms |

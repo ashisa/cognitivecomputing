@@ -62,3 +62,5 @@
 | Features |  |  | personality models, consumption preferences |  |
 | **Understand emotions and communication style in text** |  |  | **Tone Analyzer** |  |
 | Features |  |  | sentiment detection, language style, social tendencies |  |
+| **Anomaly Detection** | Anomaly Detector | | | |
+| Features | monitor and detect anamolies in time-series data, real-time processing, batch processing, anomaly boundaries, anomaly positions   |  |  |  |

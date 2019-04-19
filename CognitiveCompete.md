@@ -62,7 +62,9 @@
 | Features |  |  | personality models, consumption preferences |  |
 | **Understand emotions and communication style in text** |  |  | **Tone Analyzer** |  |
 | Features |  |  | sentiment detection, language style, social tendencies |  |
-| **Anomaly Detection** | Anomaly Detector | | | |
+| **Anomaly Detection** | **Anomaly Detector** | | | |
 | Features | monitor and detect anamolies in time-series data, real-time processing, batch processing, anomaly boundaries, anomaly positions   |  |  |  |
 | **Layout-aware OCR** | | **Document Understanding AI** | | **Textract** |
 | Feature | | OCR, identify form fields, graphs, table data extraction  | | OCR, table data extraction, identify form fields |
+| **Recommendations** | **Product Recommendations** | **Recommendations AI** | | |
+| Features | Iitem-to-item recommendations, personalized recommendations, custom deployment | personalized recommendations, fully managed | | | |
